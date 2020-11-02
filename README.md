@@ -1,2 +1,2 @@
-# Algo-design-2
-creating code library
+# p5.play-boilerplate
+Boiler plate for p5.play
